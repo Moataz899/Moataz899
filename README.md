@@ -14,7 +14,8 @@ Skills:
 * SQL
 * Python 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page.
+ 
 <img src="https://media3.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.webp cid=790b7611l08kwec9w0u3nye0e53950x92bdb7r2vbowl6rbe&ep=v1_gifs_search&rid=giphy.webp&ct=g" 
 width='400' height='200' alt="gif"/>
 
