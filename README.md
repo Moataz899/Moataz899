@@ -16,7 +16,7 @@ Skills:
 
 - 🔭 I’m currently working on this page.
  
-<img src="https://media3.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.webp?cid=790b7611c994p47lst52bs939fni9cq10j0kzd90nlpuamvt&ep=v1_gifs_search&rid=giphy.webp&ct=g" wdith="400" height="300" alt="gif"/>
+<img src="https://media3.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.webp?cid=790b7611c994p47lst52bs939fni9cq10j0kzd90nlpuamvt&ep=v1_gifs_search&rid=giphy.webp&ct=g" wdith="200" height="300" alt="gif"/>
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/moataz_dahy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MoatazDahy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/inhy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/inhy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/inhy)  
 
