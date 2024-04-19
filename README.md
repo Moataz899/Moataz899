@@ -7,8 +7,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills:
 * HTML
 * CSS
-* JS
-* REACT
+* JS         
+* REACT                   <img src="https://media3.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.webp?cid=790b7611c994p47lst52bs939fni9cq10j0kzd90nlpuamvt&ep=v1_gifs_search&rid=giphy.webp&ct=g" wdith="400" height="400" alt="gif"/>
 * json  
 * java
 * SQL
