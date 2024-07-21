@@ -82,7 +82,13 @@
 <a href="https://github.com/Moataz899" target="_blank">
     <img align="center" src="https://img.shields.io/badge/abdelraouf-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+<a href="https://www.kaggle.com/yourkaggleprofile" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/yourtwitterprofile" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 </p>
 <h1>Thank You! 👦</h1>
 <Br>
