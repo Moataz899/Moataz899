@@ -88,14 +88,6 @@
 <a href="https://twitter.com/MoatazDahy" target="_blank">
     <img align="center" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://facebook.com/yourfacebookprofile" target="_blank">
-    <img align="center" src="https://img.shields.io-badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<br><br>
-<a href="https://instagram.com/yourinstagramprofile" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 </p>
 <h1>Thank You! 👦</h1>
 <Br>
