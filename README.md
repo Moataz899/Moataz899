@@ -86,7 +86,7 @@
     <img align="center" src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/yourtwitterprofile" target="_blank">
+<a href="https://twitter.com/MoatazDahy" target="_blank">
     <img align="center" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 </p>
