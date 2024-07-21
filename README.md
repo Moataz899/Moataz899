@@ -1,4 +1,4 @@
-<h1 align="center"> Hi , I'm Ahmed Badawi
+<h1 align="center"> Hi , I'm Abdelraouf Dahy
 	<picture> 
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 	</picture>
@@ -10,9 +10,12 @@
 <br>
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
-
 ## <picture><img src = "https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<br>
+<br>
+
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 - 💻 SDE Intern @ <a href="https://pureid.io">PureID </a>
 - 🔭 I’m currently working on my Portfolio Website :grin:
