@@ -69,25 +69,6 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-
-<!--<a href="https://linkedin.com/in/moataz-abdelraouf" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/moataz-abdelraouf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:abdelraoufdahy@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/abdelraoufdahy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Moataz899" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/abdelraouf-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.kaggle.com/abdelraoufdahy" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/MoatazDahy" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>-->
 <a href="https://linkedin.com/in/moataz-abdelraouf" target="_blank">
     <img align="center" src="https://img.shields.io/badge/moataz-abdelraouf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
